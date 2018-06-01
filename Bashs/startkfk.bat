@@ -1,0 +1,1 @@
+kafka-server-start E:\kafka_2.12-1.1.0\config\server.properties
